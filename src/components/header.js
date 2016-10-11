@@ -16,7 +16,7 @@ const Header = (props) => {
 
 
 const styles = {
-	//defines the view
+	//defines the view styles
 	viewStyle: {
 		backgroundColor: '#F8F8F8',
 		justifyContent: 'center',
